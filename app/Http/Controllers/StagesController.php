@@ -6,7 +6,7 @@ use Illuminate\Http\Request;
 
 class StagesController extends Controller
 {
-    public function myName()
+    public function aboutMe()
     {
         return view('name');
     }

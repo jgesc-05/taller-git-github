@@ -9,5 +9,5 @@ Route::get('/', function () {
 
 //Stages routes group
 Route::controller(StagesController::class)->group(function(){
-    Route::get('/name', 'myName');
+    Route::get('/about-me', 'aboutMe');
 });

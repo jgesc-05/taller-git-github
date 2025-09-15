@@ -46,9 +46,19 @@
     </style>
 </head>
 <body>
-    <div class="card">
-        <h1>¡Hola! 👋</h1>
-        <p>Mi nombre es <strong>Juan Guillermo Escobar Baez</strong></p>
-    </div>
+<div class="container">
+        <h1>Mi Historia</h1>
+
+        <div class="section">
+            <h2>Mi nombre</h2>
+            <p>Mi nombre es <strong>Juan Guillermo Escobar Baez</strong>.</p>
+        </div>
+
+        <div class="section">
+            <h2>Lugar de nacimiento y familia</h2>
+            <p>Nací el <strong>1ero de noviembre de 2005</strong> en la ciudad de <strong>Bucaramanga</strong>. 
+               Tengo <strong>dos hermanos</strong>: uno es mi gemelo y el otro es <strong>6 años mayor</strong>. 
+               Mis padres son bumangueses, aunque mis abuelos provienen de otras zonas de Colombia.</p>
+        </div>
 </body>
 </html>
