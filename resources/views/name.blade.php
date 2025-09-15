@@ -83,6 +83,16 @@
                 , especialmente los fines de semana, para estar en la naturaleza. Finalmente, también me dedico a practicar el catolicismo.
             </p>
 
+
+            <div class="section">
+            <h2>Lo que aspiro ser y mis metas propuestas</h2>
+            <p> Finalmente, aspiro ser un profesional formado, que represente al catolicismo adecuadamente en mi entorno de trabajo; aspiro
+                trabajar para contribuir en lo que se necesite. Como metas, principalmente, tengo propuestas:
+                1. estudiar un semestre fuera del país
+                2. poder entender adecuadamente las temáticas y no solamente graduarme con buenas notas, sino como un ingeniero con
+                más habilidades blandas.
+            </p>
+
             
         </div>
 </body>
