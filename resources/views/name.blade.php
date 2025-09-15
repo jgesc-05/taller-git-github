@@ -60,5 +60,13 @@
                Tengo <strong>dos hermanos</strong>: uno es mi gemelo y el otro es <strong>6 años mayor</strong>. 
                Mis padres son bumangueses, aunque mis abuelos provienen de otras zonas de Colombia.</p>
         </div>
+        <div class="section">
+            <h2>Mi niñez</h2>
+            <p>Entré a la primaria en el año 2012 (entré al colegio Gimnasio San Diego, ubicado en Floridablanca (Santander)). Allí
+                tengo muchos recuerdos, como los descansos (cuando jugaba fútbol o escondite, o hacía locuras como deslizarme por las 
+                montañas). Los fines de semana, me gustaba explorar la naturaleza con mis padres y jugar videojuegos. A los 9 años, 
+                aproximadamente, realicé mi primera comunión.
+            </p>
+        </div>
 </body>
 </html>
