@@ -75,6 +75,15 @@
                 a mi padre en su empresa. En el año 2023, me tomé medio año para pensar cuál era el paso siguiente en mi vida y, finalmente, en el
                 año 2023 (segundo semestre) entré a estudiar a la universidad.
             </p>
+
+            <div class="section">
+            <h2>Lo que hago y a lo que me dedico actualmente</h2>
+            <p> Actualmente, sigo estudiando Ingeniería de Sistemas en la Universidad Autónoma de Bucaramanga (UNAB); voy en quinto
+                semestre del pregrado. Me gusta aprender sobre frameworks, especialmente de back-end. Además de eso, me gusta montar bicicleta
+                , especialmente los fines de semana, para estar en la naturaleza. Finalmente, también me dedico a practicar el catolicismo.
+            </p>
+
+            
         </div>
 </body>
 </html>
