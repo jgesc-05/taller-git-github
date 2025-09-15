@@ -67,6 +67,14 @@
                 montañas). Los fines de semana, me gustaba explorar la naturaleza con mis padres y jugar videojuegos. A los 9 años, 
                 aproximadamente, realicé mi primera comunión.
             </p>
+
+            <div class="section">
+            <h2>Mi adolescencia</h2>
+            <p> En mi adolescencia, ocurrió (principalmente) lo siguiente: respecto a mi adolescencia temprana, me gustaba mucho ir a cine para
+                ver películas de superhéroes. Saltándome al año 2022 (debido a la pandemia de COVID-19), me gradué del colegio y, además, colaboré
+                a mi padre en su empresa. En el año 2023, me tomé medio año para pensar cuál era el paso siguiente en mi vida y, finalmente, en el
+                año 2023 (segundo semestre) entré a estudiar a la universidad.
+            </p>
         </div>
 </body>
 </html>
