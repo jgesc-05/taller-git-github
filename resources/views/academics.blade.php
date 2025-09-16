@@ -3,62 +3,15 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Mi Historia</title>
+  <title>Hitos Académicos</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
   <style>
     body {
       margin: 0;
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      background: #f4f7fb;
+      font-family: 'Inter', sans-serif;
+      background: #f8f9fc;
       color: #333;
-    }
-
-    header {
-      background: linear-gradient(135deg, #667eea, #764ba2);
-      color: white;
-      text-align: center;
-      padding: 2.5rem 1rem;
-    }
-
-    header h1 {
-      margin: 0;
-      font-size: 2.5rem;
-    }
-
-    .container {
-      max-width: 1000px;
-      margin: 2rem auto;
-      padding: 0 1rem;
-    }
-
-    .section {
-      background: white;
-      border-radius: 16px;
-      padding: 1.5rem 2rem;
-      margin-bottom: 2rem;
-      box-shadow: 0 6px 18px rgba(0,0,0,0.1);
-      transition: transform 0.2s ease-in-out;
-    }
-
-    .section:hover {
-      transform: translateY(-4px);
-    }
-
-    .section h2 {
-      margin-top: 0;
-      font-size: 1.6rem;
-      color: #667eea;
-      border-bottom: 2px solid #eee;
-      padding-bottom: 0.5rem;
-    }
-
-    .section p {
-      line-height: 1.7;
-      margin: 0.8rem 0 0;
-    }
-
-    ul {
-      margin-top: 0.8rem;
-      padding-left: 1.2rem;
+      line-height: 1.6;
     }
 
     nav {
@@ -70,28 +23,75 @@
       position: sticky;
       top: 0;
       z-index: 1000;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
     }
 
     nav a {
       color: white;
       text-decoration: none;
-      font-weight: bold;
-      transition: color 0.3s ease;
+      font-weight: 600;
+      transition: color 0.3s ease, transform 0.2s;
     }
 
     nav a:hover {
       color: #ffd369;
+      transform: translateY(-2px);
+    }
+
+    main {
+      max-width: 900px;
+      margin: 3rem auto;
+      padding: 0 1rem;
+    }
+
+    h1 {
+      text-align: center;
+      font-size: 2rem;
+      margin-bottom: 2rem;
+      color: #444;
+    }
+
+    .section {
+      background: white;
+      border-radius: 12px;
+      padding: 1.5rem 2rem;
+      margin-bottom: 2rem;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+
+    .section:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 6px 18px rgba(0,0,0,0.12);
+    }
+
+    .section h2 {
+      margin-top: 0;
+      font-size: 1.4rem;
+      color: #667eea;
+      font-weight: 600;
+      border-left: 4px solid #667eea;
+      padding-left: 0.6rem;
+    }
+
+    .section p {
+      margin: 1rem 0 0;
+      font-size: 1rem;
+      color: #555;
     }
   </style>
 </head>
 <body>
 
-<nav>
+  <nav>
     <a href="{{ route('stages') }}">Inicio</a>
     <a href="{{ route('work') }}">Experiencia</a>
     <a href="{{ route('abilities') }}">Habilidades</a>
     <a href="{{ route('academics') }}">Academia</a>
   </nav>
+
+  <main>
+    <h1>Hitos Académicos</h1>
 
     <div class="section">
       <h2>Colegio</h2>
@@ -105,10 +105,10 @@
     <div class="section">
       <h2>Universidad</h2>
       <p>
-        En cuanto a la universidad, llevo 2 años estudiando Ingeniería de Sistemas en la UNAB (Universidad Autónoma de Bucaramanga),
-        donde he obtenido buenas calificaciones y he notado que esta es mi vocación. Actualmente, me encuentro en quinto semestre.
+        Llevo 2 años estudiando Ingeniería de Sistemas en la UNAB (Universidad Autónoma de Bucaramanga),
+        donde he obtenido buenas calificaciones y he confirmado que esta es mi vocación. Actualmente, me encuentro en quinto semestre.
       </p>
     </div>
-
+  </main>
 </body>
 </html>

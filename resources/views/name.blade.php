@@ -90,7 +90,7 @@
     <a href="{{ route('stages') }}">Inicio</a>
     <a href="{{ route('work') }}">Experiencia</a>
     <a href="{{ route('abilities') }}">Habilidades</a>
-    <a href="#">Academia</a>
+    <a href="{{ route('academics') }}">Academia</a>
   </nav>
 
 
