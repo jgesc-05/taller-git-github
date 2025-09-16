@@ -60,9 +60,39 @@
       margin-top: 0.8rem;
       padding-left: 1.2rem;
     }
+
+    nav {
+      background: linear-gradient(135deg, #667eea, #764ba2);
+      padding: 1rem;
+      display: flex;
+      justify-content: center;
+      gap: 2rem;
+      position: sticky;
+      top: 0;
+      z-index: 1000;
+    }
+
+    nav a {
+      color: white;
+      text-decoration: none;
+      font-weight: bold;
+      transition: color 0.3s ease;
+    }
+
+    nav a:hover {
+      color: #ffd369;
+    }
   </style>
 </head>
 <body>
+
+<nav>
+    <a href="{{ route('stages') }}">Inicio</a>
+    <a href="{{ route('work') }}">Experiencia</a>
+    <a href="#">Habilidades</a>
+    <a href="#">Academia</a>
+  </nav>
+
 
   <header>
     <h1>🌟 Mi Historia</h1>
