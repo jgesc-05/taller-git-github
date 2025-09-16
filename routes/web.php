@@ -16,4 +16,5 @@ Route::controller(StagesController::class)->group(function(){
 //Characteristics routes
 Route::controller(CharacteristicsController::class)->group(function(){
     Route::get('/work-experiences', 'workExperiences')->name('work');
+    Route::get('/abilities', 'abilities')->name('abilities');
 });

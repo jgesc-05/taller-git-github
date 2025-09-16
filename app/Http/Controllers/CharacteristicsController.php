@@ -10,4 +10,10 @@ class CharacteristicsController extends Controller
     {
         return view('work');
     }
+
+    public function abilities()
+    {
+        return view('abilities');
+    }
+
 }
