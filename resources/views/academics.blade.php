@@ -102,5 +102,13 @@
       </p>
     </div>
 
+    <div class="section">
+      <h2>Universidad</h2>
+      <p>
+        En cuanto a la universidad, llevo 2 años estudiando Ingeniería de Sistemas en la UNAB (Universidad Autónoma de Bucaramanga),
+        donde he obtenido buenas calificaciones y he notado que esta es mi vocación. Actualmente, me encuentro en quinto semestre.
+      </p>
+    </div>
+
 </body>
 </html>
