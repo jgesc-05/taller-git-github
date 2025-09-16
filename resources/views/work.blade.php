@@ -40,6 +40,7 @@
 
   <ol>
     <li>Colaborar con tareas repetitivas a mi padre, durante 3 meses (aproximadamente). Año 2022 y 2023.</li>
+    <li>Colaborar con tareas manuales en la empresa de mi padre, en ese mismo período de tiempo (año 2022 y principios de 23).</li>
   </ol>
 
 </body>
