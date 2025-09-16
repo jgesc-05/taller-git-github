@@ -16,4 +16,10 @@ class CharacteristicsController extends Controller
         return view('abilities');
     }
 
+    public function educationalInfo()
+    {
+        return view('academics');
+    }
+
+
 }
