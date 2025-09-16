@@ -40,6 +40,7 @@
 
   <ol>
     <li>Ser perseverante en el aprendizaje de conceptos retadores</li>
+    <li>Lograr objetivos propuestos, ya sea a corto o largo plazo; académicos o personales</li>
   </ol>
 
 </body>
