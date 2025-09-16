@@ -41,6 +41,7 @@
   <ol>
     <li>Ser perseverante en el aprendizaje de conceptos retadores</li>
     <li>Lograr objetivos propuestos, ya sea a corto o largo plazo; académicos o personales</li>
+    <li>Trabajar en solitario en los proyectos académicos</li>
   </ol>
 
 </body>
